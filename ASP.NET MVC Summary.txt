@@ -1,0 +1,37 @@
+ASP.NET
+
+
+Fundimentals
+
+1. Action Result
+2. Action Parameters
+3. Convention-based Routing
+4. Attribute Routing
+5. Razor Views
+
+
+Entity Framework
+
+DbFirst 
+CodeFirst
+
+DbFirst 
+
+Domain Classes <-- Entity Framework <-- Database
+
+
+Install-Package EntityFramework -IncludePrerelease
+
+
+Install Identity User
+Install-Package Microsoft.AspNet.Identity.Samples -Pre
+
+
+Update-Database -ConnectionString "Data Source=(LocalDb)\v11...." -ConnectionProviderName  "System.Data.SqlClient"
+
+
+
+
+
+
+
